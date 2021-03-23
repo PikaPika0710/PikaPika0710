@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on doing some projects for future works! Welcome you guys <3
 - 📫 Contact me via:
 +) Mobile number :: 0935169835
+
 +) Gmail :: trancongviet0710@gmail.com
+
 +) Facebook :: https://www.facebook.com/pikapika0710/
+
 +) Insta :: pikapika._.710
 <!---
 PikaPika0710/PikaPika0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
