@@ -10,7 +10,7 @@
 
 +) Facebook :: https://www.facebook.com/pikapika0710/
 
-+) Insta :: pikapika._.710
++) Insta :: isnotfound._.404
 <!---
 PikaPika0710/PikaPika0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
