@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PikaPika0710
 - 👀 I’m interested in learning English, Coding, playing Soccer, games, and travelling ^^ 
-- 🌱 I’m currently learning .NET & JAVA language, and try my best to 990TO
 - 💞️ I’m looking to collaborate on doing some projects for future works! Welcome you guys <3
 - 📫 Contact me via:
 
